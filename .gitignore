@@ -1,0 +1,61 @@
+
+# Dependencies
+node_modules/
+**/node_modules/
+/.pnp
+.pnp.js
+
+# Testing and build output
+/coverage
+**/coverage/
+/dist/
+/build/
+**/dist/
+**/build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Server uploads - preserve empty folders only
+server/uploads/*
+!server/uploads/.gitkeep
+server/uploads/medical_reports/*
+!server/uploads/medical_reports/.gitkeep
+server/uploads/profiles/*
+!server/uploads/profiles/.gitkeep
+
+# Database backups
+*.dump
+*.backup
+*.sql.gz
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor and OS
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db

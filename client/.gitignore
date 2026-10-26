@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Build output
+**/dist/
+**/build/
+
+# Python cache and environments
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs and database backups
+*.log
+*.dump
+*.backup
+*.sql.gz

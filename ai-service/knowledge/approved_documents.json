@@ -1,0 +1,217 @@
+[
+  {
+    "id": "doc-cardio-01",
+    "title": "Clinical Triage Protocol for Acute Chest Discomfort & Coronary Events",
+    "publisher": "World Health Organization (WHO) & American College of Cardiology (ACC)",
+    "sourceUrl": "https://www.who.int/health-topics/cardiovascular-diseases",
+    "category": "Cardiovascular",
+    "publicationDate": "2025-01-15",
+    "chunks": [
+      {
+        "id": "chunk-cardio-01",
+        "content": "Emergency Red Flags: Chest discomfort lasting over 15 minutes, accompanied by dyspnea, cold diaphoresis, or radiation to the left arm, shoulder, jaw, or neck constitutes a critical cardiovascular emergency. In these circumstances, immediate activation of emergency medical services (dial 112 for Pan-India ERSS or 108 for Ambulance) is mandatory. The patient should sit comfortably, avoid physical exertion, and must not attempt to drive themselves.",
+        "keywords": ["chest pain", "heart attack", "crushing pain", "shortness of breath", "sweating", "arm pain", "jaw pain", "angina", "cardiac"]
+      },
+      {
+        "id": "chunk-cardio-02",
+        "content": "Non-Emergency Chest Symptoms: Sharp, brief, localized chest discomfort provoked solely by coughing, deep inspiration, or palpation of chest wall cartilages is frequently musculoskeletal (costochondritis) or pleuritic in etiology. However, any persistent or escalating discomfort in adults with hypertension, smoking history, or diabetes mellitus requires formal electrocardiogram (ECG) and clinical evaluation by a cardiologist.",
+        "keywords": ["chest pain", "musculoskeletal", "costochondritis", "pleuritic", "ecg", "hypertension"]
+      },
+      {
+        "id": "chunk-cardio-03",
+        "content": "Acute Stroke Protocol (F.A.S.T.): Facial drooping (asymmetrical smile), Arm weakness (pronator drift), and Speech difficulty (slurred or incomprehensible words). Stroke is a time-critical emergency requiring rapid CT imaging and thrombolytic therapy within 4.5 hours of symptom onset. Immediately dial 112 or 108. Do NOT administer aspirin or oral fluids before hospital evaluation due to hemorrhagic risk.",
+        "keywords": ["stroke", "fast", "face drooping", "arm weakness", "slurred speech", "numbness", "paralysis", "cerebrovascular"]
+      }
+    ]
+  },
+  {
+    "id": "doc-resp-01",
+    "title": "Global Initiative for Asthma & Acute Respiratory Triage Guidelines",
+    "publisher": "Global Initiative for Asthma (GINA) & WHO",
+    "sourceUrl": "https://ginasthma.org",
+    "category": "Respiratory",
+    "publicationDate": "2024-11-20",
+    "chunks": [
+      {
+        "id": "chunk-resp-01",
+        "content": "Acute Asthma Flare-Up First Aid: 1. Help the person sit upright and remain calm; do not allow them to lie flat. 2. Administer 2 to 4 separate puffs of a rapid-acting reliever bronchodilator (such as Salbutamol/Albuterol) via a spacer, inhaling 4 breaths per puff. 3. Wait 4 minutes. If there is no improvement, give another 4 puffs. 4. If severe breathlessness, inability to complete full sentences, or blue discoloration of lips/fingertips (cyanosis) persists, call 112 or 108 immediately.",
+        "keywords": ["asthma", "wheezing", "inhaler", "salbutamol", "shortness of breath", "bronchospasm", "breathing difficulty"]
+      },
+      {
+        "id": "chunk-resp-02",
+        "content": "Bronchitis and Cough Triage: Acute bronchitis typically follows viral upper respiratory infections and resolves within 2 to 3 weeks with supportive hydration and humidification. Red flags requiring immediate medical evaluation include: hemoptysis (coughing up blood), high fever (>38.5°C) persisting over 3 days, purulent sputum with pleuritic chest pain, or resting oxygen saturation below 94%.",
+        "keywords": ["cough", "bronchitis", "phlegm", "mucus", "fever", "respiratory", "oxygen"]
+      }
+    ]
+  },
+  {
+    "id": "doc-firstaid-01",
+    "title": "Standard First-Aid Protocols for Acute Injuries, Scalds & Trauma",
+    "publisher": "International Red Cross & Crescent Societies / St. John Ambulance",
+    "sourceUrl": "https://www.redcross.org/take-a-class/first-aid",
+    "category": "First Aid",
+    "publicationDate": "2025-03-20",
+    "chunks": [
+      {
+        "id": "chunk-burn-01",
+        "content": "Thermal Burns and Scalds: Immediately cool the affected area under gentle, cool running tap water for at least 10 to 20 continuous minutes. This halts ongoing thermal tissue destruction. Do NOT apply ice, iced water, butter, oils, or toothpaste. Remove constricting jewelry, rings, or tight clothing around the site before swelling develops. Cover loosely with a clean, sterile lint-free dressing or clear plastic wrap.",
+        "keywords": ["burn", "scald", "hot water", "fire", "heat", "blister", "skin burn"]
+      },
+      {
+        "id": "chunk-choke-01",
+        "content": "Airway Obstruction (Choking): For conscious adults and children over 1 year who cannot speak, cough, or breathe: deliver up to 5 sharp back blows between shoulder blades using the heel of your hand. If unsuccessful, perform 5 abdominal thrusts (Heimlich maneuver) pulling inward and upward above the navel. Repeat alternating cycles until airway clears or individual loses consciousness. If unconscious, initiate CPR and call 112 / 108.",
+        "keywords": ["choking", "choke", "airway", "throat", "heimlich", "cannot breathe"]
+      },
+      {
+        "id": "chunk-sprain-01",
+        "content": "Soft Tissue Sprains and Strains (R.I.C.E. Protocol): Rest the injured joint immediately. Ice with a cold pack wrapped in a cloth for 15-20 minutes every 2-3 hours (never direct bare ice against skin). Compress with an elastic bandage from distal to proximal, snug but not restricting circulation. Elevate the injured limb above heart level whenever resting to reduce localized edema.",
+        "keywords": ["sprain", "strain", "ankle", "wrist", "swelling", "joint", "ice", "rice", "ligament"]
+      },
+      {
+        "id": "chunk-bleed-01",
+        "content": "Acute Severe Bleeding Control: Apply continuous direct manual pressure over the wound using a clean dressing or cloth for at least 10 minutes without lifting to check. Maintain elevation above heart level if no fracture is suspected. If bleeding saturates the dressing, add secondary pads on top without removing the base layer. If arterial spurting persists, activate emergency dispatch (112 / 108) immediately.",
+        "keywords": ["bleeding", "wound", "blood", "cut", "hemorrhage", "laceration"]
+      }
+    ]
+  },
+  {
+    "id": "doc-peds-01",
+    "title": "Pediatric Fever Triage and Acute Symptom Safety Guidance",
+    "publisher": "Indian Academy of Pediatrics (IAP) & American Academy of Pediatrics (AAP)",
+    "sourceUrl": "https://iapindia.org",
+    "category": "Pediatrics",
+    "publicationDate": "2025-05-15",
+    "chunks": [
+      {
+        "id": "chunk-peds-01",
+        "content": "Infant Fever Safeguard: Any infant under 3 months of age with a rectal temperature of 100.4°F (38.0°C) or higher requires immediate in-person evaluation by a pediatrician or emergency clinic, regardless of appearance. Neonates and young infants can deteriorate rapidly from invasive bacterial infections without displaying overt focal signs.",
+        "keywords": ["pediatric", "infant", "baby", "fever", "child", "temperature", "newborn"]
+      },
+      {
+        "id": "chunk-peds-02",
+        "content": "Pediatric Red Flag Symptoms: Seek emergency medical care immediately (dial 112 or 108) if a child presents with: non-blanching red/purple petechial rash (glass test positive), extreme lethargy or difficulty waking, respiratory retractions (chest pulling in severely beneath ribs), grunting breathing sounds, stridor at rest, or a stiff neck with photophobia.",
+        "keywords": ["pediatric", "child", "lethargy", "rash", "petechiae", "stridor", "retractions", "breathing difficulty"]
+      }
+    ]
+  },
+  {
+    "id": "doc-mat-01",
+    "title": "Maternal Safety & Obstetric Red-Flag Warning Protocols",
+    "publisher": "National Health Mission (NHM) & FOGSI India",
+    "sourceUrl": "https://nhm.gov.in",
+    "category": "Maternal Health",
+    "publicationDate": "2025-02-10",
+    "chunks": [
+      {
+        "id": "chunk-mat-01",
+        "content": "Obstetric Red Flags During Pregnancy: Any vaginal bleeding, sudden leakage of amniotic fluid, severe continuous abdominal cramping, severe unremitting headache with visual disturbances (blurriness, scotoma indicating pre-eclampsia), facial edema, or noticeable decrease in fetal movements requires urgent hospital obstetric assessment. Never delay emergency evaluation.",
+        "keywords": ["pregnancy", "pregnant", "obstetric", "bleeding", "preeclampsia", "fetal", "maternal", "trimester"]
+      },
+      {
+        "id": "chunk-mat-02",
+        "content": "Medication Safeguards in Pregnancy: Pregnant or lactating individuals should NEVER take over-the-counter medications, herbal remedies, or adjust prescribed pharmaceuticals without explicit clearance from an obstetrician. Common analgesics like NSAIDs (ibuprofen, naproxen) are contraindicated in third-trimester pregnancy due to premature ductus arteriosus closure risks.",
+        "keywords": ["pregnancy medication", "drugs in pregnancy", "nsaids", "ibuprofen", "paracetamol", "breastfeeding"]
+      }
+    ]
+  },
+  {
+    "id": "doc-endo-01",
+    "title": "Management of Type 2 Diabetes Mellitus & Acute Glycemic Triage",
+    "publisher": "Indian Council of Medical Research (ICMR) & WHO",
+    "sourceUrl": "https://main.icmr.nic.in/content/guidelines-management-type-2-diabetes",
+    "category": "Endocrinology",
+    "publicationDate": "2024-10-18",
+    "chunks": [
+      {
+        "id": "chunk-endo-01",
+        "content": "Acute Hypoglycemia Protocol (The 15-15 Rule): Blood glucose < 70 mg/dL accompanied by shakiness, cold diaphoresis, tachycardia, hunger, or confusion: 1. Consume 15 grams of rapid-acting simple carbohydrates (3-4 glucose tablets, half cup of fruit juice, or 3 teaspoons of sugar dissolved in water). 2. Wait 15 minutes and re-check blood glucose. 3. Repeat if still below 70 mg/dL. If the individual becomes unconscious or cannot swallow, do NOT give fluids; position on side and call 112 / 108 immediately.",
+        "keywords": ["hypoglycemia", "low blood sugar", "diabetes", "shakiness", "sweating", "sugar", "glucose", "15-15 rule"]
+      },
+      {
+        "id": "chunk-endo-02",
+        "content": "Hyperglycemia & Diabetic Ketoacidosis (DKA) Red Flags: Severely elevated blood glucose (>250-300 mg/dL) with extreme thirst, polyuria, nausea, vomiting, fruity-smelling breath, deep rapid respirations (Kussmaul breathing), or confusion signifies impending DKA, a life-threatening medical emergency requiring prompt intravenous hydration and insulin therapy in an intensive care unit.",
+        "keywords": ["hyperglycemia", "high blood sugar", "diabetes", "dka", "ketoacidosis", "thirst", "frequent urination"]
+      }
+    ]
+  },
+  {
+    "id": "doc-infect-01",
+    "title": "Clinical Guidance on Common Seasonal Tropical Fevers (Dengue, Malaria, Viral Flu)",
+    "publisher": "National Center for Vector Borne Diseases Control (NCVBDC) & NHM India",
+    "sourceUrl": "https://ncvbdc.mohfw.gov.in",
+    "category": "Infectious Diseases",
+    "publicationDate": "2024-12-05",
+    "chunks": [
+      {
+        "id": "chunk-infect-01",
+        "content": "Dengue Warning Signs & Management: Characterized by acute high fever, severe retro-orbital eye pain, arthralgia ('breakbone fever'), and rash. Critical warning signs indicating progression to severe dengue include: persistent vomiting, severe abdominal pain, mucosal bleeding (bleeding gums/nose), rapid drop in platelet count, and lethargy. Maintain aggressive oral hydration with ORS and tender coconut water. Avoid NSAIDs (aspirin, ibuprofen) as they heighten hemorrhagic risks; use paracetamol strictly at recommended doses under medical supervision.",
+        "keywords": ["dengue", "fever", "platelets", "malaria", "vomiting", "bleeding gums", "paracetamol", "body ache"]
+      },
+      {
+        "id": "chunk-infect-02",
+        "content": "Seasonal Influenza & Common Cold Distinction: Common colds develop gradually with prominent rhinorrhea, sneezing, and sore throat with mild fatigue. Influenza strikes abruptly with high fever (39°C+), prostrating myalgias, severe headache, and non-productive cough. Supportive rest, warm fluids, and steam inhalation manage uncomplicated cases. Antivirals should only be initiated within 48 hours under prescription for high-risk cohorts.",
+        "keywords": ["cold", "flu", "influenza", "sore throat", "runny nose", "body ache", "fever"]
+      }
+    ]
+  },
+  {
+    "id": "doc-gastro-01",
+    "title": "Clinical Management of Acute Gastroenteritis, Diarrhea & Dehydration",
+    "publisher": "World Health Organization (WHO) & Indian Society of Gastroenterology",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+    "category": "Gastroenterology",
+    "publicationDate": "2025-01-28",
+    "chunks": [
+      {
+        "id": "chunk-gastro-01",
+        "content": "Acute Gastroenteritis & Oral Rehydration: The cornerstone of diarrhea management is preventing dehydration using WHO-formulation Oral Rehydration Salts (ORS). Dissolve one packet in exactly 1 liter of clean drinking water; sip frequently after every loose stool. For infants and children, oral zinc supplementation for 14 days reduces episode severity. Red flags requiring medical attention: blood in stool (dysentery), sunken eyes, dry tongue with absence of urination for over 8 hours, or inability to retain fluids due to persistent vomiting.",
+        "keywords": ["diarrhea", "vomiting", "gastroenteritis", "ors", "dehydration", "loose motion", "stomach pain", "food poisoning"]
+      },
+      {
+        "id": "chunk-gastro-02",
+        "content": "Gastroesophageal Reflux (GERD) vs Cardiac Chest Pain: GERD presents with retrosternal burning ('heartburn') exacerbated by recumbency or spicy foods, accompanied by sour acid taste in mouth. In contrast, cardiac ischemia typically produces heavy pressure, tightness, or squeezing provoked by exertion and relieved by rest. Any new, unexplained substernal discomfort in adults must be triaged as potentially cardiac until proven otherwise.",
+        "keywords": ["acidity", "gerd", "heartburn", "acid reflux", "chest burning", "indigestion"]
+      }
+    ]
+  },
+  {
+    "id": "doc-mental-01",
+    "title": "Mental Health First Aid, Anxiety De-escalation & Crisis Support",
+    "publisher": "Tele-MANAS (Ministry of Health & Family Welfare, India) & WHO",
+    "sourceUrl": "https://telemanas.mohfw.gov.in",
+    "category": "Mental Health",
+    "publicationDate": "2025-02-15",
+    "chunks": [
+      {
+        "id": "chunk-mental-01",
+        "content": "Acute Anxiety & Panic De-escalation: Panic attacks present with sudden tachycardia, hyperventilation, chest tightness, trembling, and intense dread. Grounding Technique (Box Breathing): Inhale through nose for 4 seconds, hold for 4 seconds, exhale through mouth for 4 seconds, hold for 4 seconds. Practice the 5-4-3-2-1 sensory method: identify 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, and 1 you can taste. Remind yourself that panic attacks, while frightening, are temporary and not physically fatal.",
+        "keywords": ["anxiety", "panic", "fear", "terrified", "stress", "scared", "nervous", "breathing", "palpitations"]
+      },
+      {
+        "id": "chunk-mental-02",
+        "content": "Crisis Helplines & Empathetic Support (India): If experiencing severe emotional crisis, hopeless thoughts, or self-harm ideation: Contact Tele-MANAS, India's 24/7 free national mental health helpline, by dialing 14416 or 1800-891-4416. You can also reach the emergency response number 112. Speaking to a compassionate professional counselor offers immediate support in distress.",
+        "keywords": ["suicide", "depression", "crisis", "tele-manas", "hopeless", "helpline", "mental health", "distress"]
+      }
+    ]
+  },
+  {
+    "id": "doc-meds-01",
+    "title": "Safe Medication Practices, Antibiotic Stewardship & Anaphylaxis",
+    "publisher": "Central Drugs Standard Control Organisation (CDSCO) & WHO",
+    "sourceUrl": "https://cdsco.gov.in",
+    "category": "Pharmacotherapy & Allergy",
+    "publicationDate": "2025-01-30",
+    "chunks": [
+      {
+        "id": "chunk-meds-01",
+        "content": "Anaphylaxis (Severe Allergic Reaction): Rapid onset of swelling of lips, tongue, or uvula; widespread urticarial hives; difficulty swallowing; hoarseness; or wheezing with hypotension following medication, food (peanuts, shellfish), or insect sting. This is an immediate life-threatening emergency. Administer intramuscular epinephrine (EpiPen) into anterolateral thigh immediately and dial 112 or 108. Do not make the patient stand or walk.",
+        "keywords": ["allergy", "anaphylaxis", "epipen", "swollen lips", "swollen tongue", "hives", "allergic reaction"]
+      },
+      {
+        "id": "chunk-meds-02",
+        "content": "Antibiotic Stewardship & Prescription Safety: Antibiotics are ineffective against viral infections such as common colds, viral sore throats, or seasonal flu. Never purchase antibiotics over the counter without a verified prescription. Always complete the entire prescribed course even if symptoms resolve earlier to prevent antimicrobial resistance. Never alter prescription dosages without consulting your doctor.",
+        "keywords": ["antibiotic", "medication", "prescription", "dosage", "side effects", "pill"]
+      }
+    ]
+  }
+]
